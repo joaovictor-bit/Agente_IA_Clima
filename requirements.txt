@@ -1,0 +1,4 @@
+strands-agents[openai]==1.64.0
+strands-agents-tools==0.8.12
+requests==2.34.2
+python-dotenv==1.2.4
